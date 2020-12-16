@@ -1,0 +1,121 @@
+c:\users\do xuan hoa\documents\visual studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\bin\Debug\ChuongTrinhQuanLyDiem.exe.config
+c:\users\do xuan hoa\documents\visual studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\bin\Debug\ChuongTrinhQuanLyDiem.exe
+c:\users\do xuan hoa\documents\visual studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\bin\Debug\ChuongTrinhQuanLyDiem.pdb
+c:\users\do xuan hoa\documents\visual studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form1.resources
+c:\users\do xuan hoa\documents\visual studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Properties.Resources.resources
+c:\users\do xuan hoa\documents\visual studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.csproj.GenerateResource.Cache
+c:\users\do xuan hoa\documents\visual studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.exe
+c:\users\do xuan hoa\documents\visual studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.pdb
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.csprojResolveAssemblyReference.cache
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.TrangChu.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_MonHoc.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.ThongTinPhanMem.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.GioiThieu.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.DoiMatKhau.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_ThongKe.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_WebDaoTao.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_QuanLyTaiKhoan.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.MayTinh.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_DangNhap.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_BangDiem.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_CapNhatDiem.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_SinhVien.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_HocKi.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_LopHoc.resources
+C:\Users\Do Xuan Hoa\Documents\Visual Studio 2015\Projects\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.csproj.ResolveComReference.cache
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\bin\Debug\ChuongTrinhQuanLyDiem.exe.config
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.csproj.ResolveComReference.cache
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.exe
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.pdb
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\bin\Debug\ChuongTrinhQuanLyDiem.exe
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\bin\Debug\ChuongTrinhQuanLyDiem.pdb
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.csprojResolveAssemblyReference.cache
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_BangDiem.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_CapNhatDiem.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.DoiMatKhau.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form1.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_SinhVien.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_DangNhap.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_MonHoc.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_QuanLyTaiKhoan.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_ThongKe.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_WebDaoTao.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.GioiThieu.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_HocKi.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_LopHoc.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.MayTinh.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Properties.Resources.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.ThongTinPhanMem.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.TrangChu.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.csproj.GenerateResource.Cache
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_DangKy.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.LienHe.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.PhanHoi.resources
+D:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.KhoiDong.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\bin\Debug\ChuongTrinhQuanLyDiem.exe.config
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\bin\Debug\ChuongTrinhQuanLyDiem.exe
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\bin\Debug\ChuongTrinhQuanLyDiem.pdb
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\bin\Debug\Bunifu_UI_v1.52.dll
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.csproj.ResolveComReference.cache
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_BangDiem.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_CapNhatDiem.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.DoiMatKhau.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form1.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_DangKy.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_SinhVien.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_DangNhap.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_MonHoc.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_QuanLyTaiKhoan.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_ThongKe.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_WebDaoTao.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.GioiThieu.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_HocKi.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_LopHoc.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.HuongDanNhapDiem.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.KhoiDong.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.LienHe.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.MayTinh.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.NhapDiemGV.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.PhanHoi.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Properties.Resources.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.THONGKE.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.ThongTinPhanMem.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.TrangChu.resources
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.csproj.GenerateResource.Cache
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.exe
+E:\quanlydiemsv\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.pdb
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\bin\Debug\ChuongTrinhQuanLyDiem.exe.config
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\bin\Debug\ChuongTrinhQuanLyDiem.exe
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\bin\Debug\ChuongTrinhQuanLyDiem.pdb
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.csprojAssemblyReference.cache
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.csproj.ResolveComReference.cache
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_BangDiem.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_CapNhatDiem.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.DoiMatKhau.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form1.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_DangKy.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_SinhVien.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_DangNhap.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_MonHoc.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_QuanLyTaiKhoan.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_ThongKe.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_WebDaoTao.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.GioiThieu.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_HocKi.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Form_LopHoc.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.HuongDanNhapDiem.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.KhoiDong.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.LienHe.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.MayTinh.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.NhapDiemGV.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.PhanHoi.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.Properties.Resources.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.THONGKE.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.ThongTinPhanMem.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.TrangChu.resources
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.csproj.GenerateResource.cache
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.csproj.CoreCompileInputs.cache
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.csproj.CopyComplete
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.exe
+C:\Users\Bui Trung Hieu\Desktop\quanlydiemsv_UPDATE\ChuongTrinhQuanLyDiem\ChuongTrinhQuanLyDiem\obj\Debug\ChuongTrinhQuanLyDiem.pdb
